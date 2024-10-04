@@ -1,7 +1,7 @@
 Hi there 👋, I'm Giang Tung Duong!
 
-I am a developer specializing in web development 💻. I have experience working with various programming languages such as:
-
+I am a developer specializing in web development 💻. 
+I have experience working with various programming languages such as:
 🖥️ Java
 💻 C#
 🖱️ C++
