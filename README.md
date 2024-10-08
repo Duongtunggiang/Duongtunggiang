@@ -27,3 +27,4 @@ When it comes to databases, I am proficient in:
 
 📫 How to reach me:
 FB: https://www.facebook.com/Tung.Duong.3003/
+About me: https://giangtungduong.netlify.app/
