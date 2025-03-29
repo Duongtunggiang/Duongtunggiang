@@ -19,7 +19,7 @@ When it comes to databases, I am proficient in:
 
 📂 Projects:
 
-🚗 Rent-a-car: A car rental project developed during my internship at FPT Software.
+🚗 Rent-a-car: A car rental project developed during my internship at FPT Software with Java Spring boot.
 
 📱 Mobile Smart: A personal project for an online mobile store, built with pure Java Servlets, which I am continuously improving.
 
