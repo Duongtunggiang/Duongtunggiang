@@ -1,6 +1,6 @@
 Hi there 👋, I'm Giang Tung Duong!
 
-I am a developer specializing in web development 💻. 
+I am a developer specializing in web development 💻 and currently programming in the automation field 🤖. 
 I have experience working with various programming languages such as:
 
 🖥️ Java
@@ -9,9 +9,7 @@ I have experience working with various programming languages such as:
 
 🖱️ C++
 
-🐍 Python
-
-I am also skilled in backend frameworks like Java Spring Boot and ASP .NET, as well as frontend frameworks and libraries like Bootstrap and jQuery ✨.
+I am also skilled in backend frameworks like Java Spring Boot and ASP .NET, as well as frontend frameworks and libraries like Bootstrap and jQuery go to React.js and more✨.
 
 When it comes to databases, I am proficient in:
 
