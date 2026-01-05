@@ -18,5 +18,7 @@ I value clean design, reliability, and practical problem-solving, and I continuo
 To become a well-rounded software engineer with deep technical understanding and real-world experience across multiple engineering domains.
 
 ### 🌐 Profile & Contact
-- Portfolio: https://duong-profile.vercel.app  
+- Portfolio: https://duong-profile.vercel.app
+- Linkin: https://www.linkedin.com/in/d%C6%B0%C6%A1ng-g-03a33b338
 - Facebook: https://www.facebook.com/Tung.Duong.3003
+
